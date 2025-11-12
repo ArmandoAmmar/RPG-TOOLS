@@ -1,0 +1,1 @@
+Guardar todas as ferramentas de RPG disponíveis
