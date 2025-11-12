@@ -505,9 +505,7 @@ https://rpg-tools.erikh.se/
 https://miro.com/
 
 https://xmind.com/
-
 roll20.net
-
 https://d100tables.com/
 https://alchemyrpg.com/
 https://store.steampowered.com/app/1588530/Dungeon_Alchemist/
@@ -516,3 +514,13 @@ https://github.com/zfedoran/go-wfc
 https://koboldplus.club/
 https://www.redblobgames.com/maps/mapgen4/
 https://ironarachne.com/
+https://eigengrausgenerator.com/
+https://sfrpgtools.com/
+https://cosmicperiladventure.com/
+https://randomcreation.net/generators.html
+https://5emagic.shop/
+https://www.tooljet.ai/
+https://play.talecompanion.com/
+
+https://play.google.com/store/apps/details?id=idispatch.mythic_gme_adventures&hl=pt_BR
+https://jasonholtdigital.itch.io/mythic-gme-digital
