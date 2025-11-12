@@ -1,148 +1,171 @@
 Digital Tabletop Software:
+Roll20 - 0 ~ $149,99
+https://roll20.net/
 
-Roll20- My favorite virtual table top at the moment.
+Token Stamp 2 - 0
+https://rolladvantage.com/tokenstamp/
 
-Token Stamp 2 - Quick and easy way for me to create tokens for my online games.
+Dice Roller - 0
+https://rolladvantage.com/diceroller
 
-Hero Forge - I use the online creator to build my character portraits, but you can also order them as miniatures.
 
-Campaign Outlining/Wiki Site:
+Hero Forge - 0
+https://www.heroforge.com/
 
-World Anvil - Currently what I'm using because it has an interactive map that I can drop pins into the world to give better geographic information to my players.
+World Anvil - 
+https://www.worldanvil.com/
 
-Obsidian Portal - My old outlining website I used years ago.
+Obsidian Portal
+https://www.obsidianportal.com/
 
-Audio:
+SoundPad
+https://store.steampowered.com/app/629520/Soundpad/
 
-SoundPad- Soundscapes that you can modify and share with players. Such as by tossing in sound effects and ambient noise.
 
 Random Generator Tools:
+Fake Person Generator -
+https://www.fakepersongenerator.com/Index/generate
 
-Talk to Transformer - Text generator, great for building a somewhat coherent script if you need. I have used this for generating news articles and reports in my game to decent effect.
 
-Fake Person Generator - Generates a random person complete with personal information such as family, work, and much more.
-
-This Person Does Not Exist - Generates a random face of a person. Great if you want to have an image for a person, but don't want to worry about using someone's actual photo or artwork.
-
-Donjon - I used this back when I played D&D to generate maps and loot.
+This Person Does Not Exist
+https://thispersondoesnotexist.com/
 
 
 Obsidian -
+https://obsidian.md/
+
 Notion -
-We use:
+https://www.notion.so/?cookie_sync_completed=true
 
-Roll20 for the map
+Zoom - 
 
-Zoom for face-to-face stuff
+Google Docs - 
 
-Google Docs to store campaign notes. I've got a bunch of stuff, here, from the text I read to players, house rules, the history of the campaign, and the GM's description of the world
-
-Telegram for anything that needs to be texted (I know Roll20 has a really good feature for this but we were using Telegram before Roll20 and we didn't want to change things up.
+Telegram - 
 
 For GURPS, specifically
 
-GURPS Character Sheet for the players to keep track of their characters.
+GURPS Character Sheet - 
 
-Combat Accountant (it's my own Python code) for keeping track of who's fighting whom, what everyone's holding, what are the current HP / FP, etc. levels, what spells are going on, whose initiative is it, etc. It even has code to compare the players' GCS sheets against its own database.
+Combat Accountant - 
 
 For D&D, specifically:
 
-DndBeyond to keep track of the characters
+DndBeyond - 
 
-WorldAnvil to keep track of the world
+WorldAnvil - 
 
-Virtual tabletop: Foundry (preferred where it have system support), Roll20, Discord (just rolls where more isn't needed)
+Virtual tabletop: 
+Foundry - 
 
-Campaign notes: kanka.io for general documentation, diagrams.net for creating flowcharts
+Roll20 - 
 
-Communication: Discord
+Discord - 
 
-Amateur artistry: Gimp, Inkscape
+kanka.io - 
 
-Medium: Discord Voice. tried to get my players to use something else, but they are resistant to change
+diagrams.net - 
 
-Digital Tabletop: Screencast GIMP where i have the dungeon drawn as a multi-layered image, where i can move player portraits around
+Communication: 
+Discord - 
 
-Audio: Groovybot. I just find a new song before every session and loop it the whole session. Sometimes I cut clips out of creepy songs and loop that short clip.
+Amateur artistry: 
+Gimp - 
 
-Random Generators: Dwarf Fortress Adventure Mode Character Creation menu. Just keep cycling backgrounds and races.
+Inkscape - 
 
 
-Tabletop:
 
-FoundryVTT - Virtual tabletop because with boundless customization/modularization
+Groovybot - 
 
-Foundry Hub - Module hub for foundry to find anything and everything
+Dwarf Fortress Adventure Mode Character Creation menu - 
+
+
+
+FoundryVTT - 
+Foundry Hub - 
 
 
 Maps:
 
-Dungeondraft - Battle mapmaker
+Dungeondraft - 
 
-Wonderdraft - World or region mapmaker
+Wonderdraft - 
 
 
 Notes/Journals:
 
-Notion - Highly customizable note taking / database lite software for campaign notes and player journals
+Notion - 
 
-Discord - Personal server for our text channels for rules, scheduling, memes
+Discord - 
 
 
 Audio:
 
-Discord - Personal server for voice/video
+Discord - 
 
-Foundry Module Bellows- Plugin that plays youtube through Foundry for ambient noises and music
+Foundry Module Bellows - 
 
 
 Random Tools:
 
-Donjon - Random loot / encounter / everything generator
+Donjon - 
 
-watabou.itch.io - Tons of great generators like
+watabou.itch.io - 
 
-One Page Dungeon - Great for small dungeon / encounter ideas and floorplans
+One Page Dungeon - 
 
-Village Generator - City layout generator
+Village Generator - 
 
-Medieval Fantasy City Generator - City layout generator
+Medieval Fantasy City Generator - 
 
-Roll20 - shared tabletop for maps & dice
+Roll20 - 
 
-D&D Beyond - for character sheets, monster stat blocks, encounters, items..
+D&D Beyond - 
 
-Beyond 20 browser plugin - lets you use everything from D&D Beyond in Roll20
-
-Discord - video & text chat, with several separate channels for specific info
-
-Groovy bot for Discord - to stream music & sound FX into our video chats
-
-Avrae bot for Discord - in case we need to roll dice in Discord between sessions
-
-OneNote - for campaign notes & organization.
-
-Dungeondraft, Dungeonscrawl, and/or Photoshop - for custom battlemap creation
-
-Token Stamp 2 - for custom tokens
+Beyond 20 browser plugin - 
 
 
-Foundry VTT
+Avrae bot for Discord - 
 
-Legendkeeper *campaign manager, replaced OneNote and then WorldAnvil for me
+OneNote - 
 
-D&DBeyond
+Dungeondraft - 
 
-Discord
+Dungeonscrawl - 
 
-Spotify (through Discord and the Groovy Bot)
+Photoshop - 
 
-Campaign notes: Zim (https://zim-wiki.org/) and CherryTree (https://www.giuspen.com/cherrytree/) for text and rules summaries, Freeplane to make an overview of the characters' relationships and the timeline (and mind mapping in general)
-
-GMAssistant.app to take session notes automatically
+Token Stamp 2 - 
 
 
-DND Beyond, Discord, Avrae
+Foundry VTT - 
+
+Legendkeeper - 
+
+D&DBeyond - 
+
+Discord - 
+
+Spotify - 
+
+Campaign notes: 
+Zim - 
+https://zim-wiki.org/
+
+CherryTree - 
+https://www.giuspen.com/cherrytree/
+
+Freeplane - 
+
+GMAssistant.app - 
+
+
+DND Beyond - 
+
+Discord - 
+
+Avrae - 
 
 https://www.tldraw.com/ - Desenho
 
@@ -150,143 +173,109 @@ https://excalidraw.com/ -
 
 https://app.campaign-logger.com/ -
 
-Google Sheets is by far the most common thread in all of my online games. Notes, character sheets, GM Screen, VTT, die roller, chat, deck of cards, mapping tool.
+Google Sheets - 
 
 https://www.rptools.net/toolbox/token-tool/
 
 Mostly free tools ☘ Based on Redditors' feedback
 Campaign manager
    
-Obsidian
-Obsidian
+Obsidian - 
 Private and flexible writing app
 
    
-Chronica
-Chronica
+Chronica - 
 Easy tabletop campaign management
 
    
-Notebook.ai
-Notebook.ai
-The smart notebook for worldbuilders
+Notebook.ai - 
 
-paid    
-Scrivener
-Scrivener
-The go-to app for writers of all kinds
-
+Scrivener - 
    
-Kanka
-Kanka
-Worldbuilding, campaign manager, storytelling
+Kanka - 
 
 Character generation
    
-Sheet Online
-Sheet Online
-Character sheet creator
+Sheet Online - 
 
    
-Wanderer's Guide
-Wanderer's Guide
-A character builder and toolbox for Pathfinder 2e
+Wanderer's Guide - 
 
    
-DnD AI
-DnD AI
-The push you needed to get your character written
+DnD AI - 
 
    
-Beyond Tabletop
-Beyond Tabletop
+Beyond Tabletop - 
 Free realtime web application for RPG players
 
    
-Dnd Beyond
-Dnd Beyond
+Dnd Beyond - 
 Create a D&D character in minutes
 
    
-Dyslexic
-Dyslexic
+Dyslexic - 
 Open Source Character Sheets
 
    
-Demiplane
-Demiplane
+Demiplane - 
 Easy character creation
 
    
-PathCompanion
-PathCompanion
+PathCompanion - 
 A Character Tracker for Pathfinder 1e
 
    
-Pathbuilder 2e
-Pathbuilder 2e
+Pathbuilder 2e - 
 Character builder, planner and sheet for PF2E
 
    
-YAPCG
-YAPCG
+YAPCG - 
 Yet Another Pathfinder Character Generator
 
    
-PCGen
-PCGen
+PCGen - 
 RPG Character Generator
 
 Design
    
-Flag Designer
-Flag Designer
+Flag Designer - 
 Design, share, and print your own flag
 
    
-Armoria
-Armoria
+Armoria - 
 Heraldry generator and editor
 
    
-RPG Awesome
-RPG Awesome
+RPG Awesome - 
 A fantasy themed font and CSS toolkit
 
    
-D&D Initiatve Tokens
-D&D Initiatve Tokens
+D&D Initiatve Tokens - 
 Free tokens and initiative tracker for DnD
 
    
-Photopea
-Photopea
+Photopea - 
 Online Photoshop alternative
 
    
-Game icons
-Game icons
+Game icons - 
 4000+ free icons for your games
 
 Dice roll
    
-DDDice
-DDDice
+DDDice - 
 3D digital dice you can roll anywhere
 
    
-AnyDice
-AnyDice
+AnyDice - 
 Dice Probability Calculator
 
    
-Nicer Dicer
-Nicer Dicer
+Nicer Dicer - 
 Quick formula rolls
 
    
-Rpg Dice Roller
-Rpg Dice Roller
+Rpg Dice Roller - 
 Simple option for basic rolls
 
 Map creation
@@ -524,3 +513,34 @@ https://play.talecompanion.com/
 
 https://play.google.com/store/apps/details?id=idispatch.mythic_gme_adventures&hl=pt_BR
 https://jasonholtdigital.itch.io/mythic-gme-digital
+
+
+Inspiration Pad Pro -
+
+skwyre -
+
+the-keep-
+
+astrosynthesis-
+
+fractal-mapper-
+
+https://mynoise.net/
+
+https://www.reddit.com/r/AskGameMasters/comments/lmv20y/what_rpg_tools_do_you_use_as_a_gm/
+https://www.reddit.com/r/rpg/comments/129hksk/full_list_of_31_days_of_solo_rpg_tools/
+https://www.reddit.com/r/AskGameMasters/comments/1hyh9cx/what_rpg_tools_are_so_helpful_you_dont_mind/
+
+https://www.reddit.com/r/rpg_generators/
+
+https://www.reddit.com/r/rpg/wiki/gmsoftware/
+https://www.reddit.com/r/Solo_Roleplaying/comments/1m9197l/what_tools_would_you_consider_essential_for_solo/
+
+https://www.reddit.com/r/rpg/comments/18r3yih/are_there_any_softwarestools_that_help_you_out_a/
+https://www.reddit.com/r/rpg/comments/phq5f3/open_source_and_free_digital_tools_for_in_person/
+https://www.reddit.com/r/rpg/comments/1g2j2pr/digital_tools_for_running_and_playing_rpgs/
+https://www.reddit.com/r/rpg/comments/1fx9ap1/make_a_rpg_need_tools/
+https://www.reddit.com/r/rpg/comments/1ngjyh/what_are_some_essential_tools_and_materials_for_a/
+https://www.hexographer.com/free-version/
+Scribus
+https://inkarnate.com/
