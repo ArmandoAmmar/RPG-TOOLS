@@ -1,122 +1,140 @@
-[{
-   name: "RPG MAP EDITOR 2",
-   price: 0,
-   url: "https://deepnight.net/tools/rpg-map/",
-   tags: ['map']
-},
-{
-   name: "Dungeon Map Poddler",
-   price: 0,
-   url: "https://dungeonmapdoodler.com/draw/"
-},
-{
-   name: "Dungeons Crawl",
-   price: 0,
-   url: "https://www.dungeonscrawl.com/",
-   tags: ['map']
-},
-{
-   name: "npcgeneratorai",
-   price: 0,
-   url: "https://npcgeneratorai.com/",
-   tags: ['npc']
-},
-{
-   name: "Seventh Sanctum",
-   price: 0,
-   url: "https://www.seventhsanctum.com/",
-   tags: ['map']
-},
-{
-   name: "Donjon",
-   price: 0,
-   url: "https://donjon.bin.sh/",
-   tags: ['map']
-},
-{
-   name: "World Map Generator - Azgaar",
-   price: 0,
-   url: "https://azgaar.github.io/Fantasy-Map-Generator/",
-   tags: ['map']
-},
-{
-   name: "Shores Generator - Watabou",
-   price: 0,
-   url: "https://watabou.github.io/perilous-shores/",
-   tags: ['map']
-},
-{
-   name: "City Generator - Watabou",
-   url: "https://watabou.github.io/city-generator"
-},
-{
- name: "Village Generator - Watabou",
- url: "https://watabou.github.io/village-generator",
- price: 0
-},
-{
-   name: "Cave Generator - Watabou",
-   url: "https://watabou.github.io/cave-generator",
-   price: 0
-},
-{
-   name: "Dweelings Generator - Watabou",
-   url: "https://watabou.github.io/dwellings",
-   price: 0
-},
-{
-   name: "Dungeon Generator - Watabou",
-   url: "https://watabou.github.io/one-page-dungeon",
-   price: 0
-},
-{
-   name: "Kasson",
-   url: "https://www.kassoon.com/",
-   price: 0
-},
-{
-   name: "Gozzzys",
-   url: "https://www.gozzys.com/",
-   price: 0
-},
-{
-   name: "Daves Mapper, Generator - Free",
-   url: "https://davesmapper.com/",
-   price: 0
-},
-{
-   name: "Chaotic Shiny - Free",
-   url: "http://chaoticshiny.com/gengen.php",
-   price: 0
-},
-{
-   name: "Fantasy Adventure Builder - R$ 41,99",
-   url: "https://store.steampowered.com/app/2537290/Fantasy_Adventure_Builder/",
-   price: 41.99
-},
-{
-   name: "Fantasy Calendar - $2,49",
-   url: "https://fantasy-calendar.com/",
-   price: 2.49
-},
-{
-   name: "Dice Roller - Free",
-   url: "https://www.calculator.net/dice-roller.html",
-   price: 0
-},
-{
-   name: "Rolladie - Free",
-   url: "https://rolladie.net/",
-   price: 0
-},
-{
-   name: "Prehance, Random Tabels - FREE",
-   url: "https://perchance.org/random-tables",
-   price: 0
-},
-{
-   name: "Garbata Random Tables - Free",
-   url: "https://garbata.itch.io/random-table-generator",
-   price: 0
-}
+[
+"https://deepnight.net/tools/rpg-map/",
+"https://dungeonmapdoodler.com/draw/"
+"https://www.dungeonscrawl.com/",
+"https://npcgeneratorai.com/",
+"https://www.seventhsanctum.com/",
+"https://donjon.bin.sh/",
+"https://azgaar.github.io/Fantasy-Map-Generator/",
+"https://watabou.github.io/perilous-shores/",
+"https://watabou.github.io/city-generator"
+"https://watabou.github.io/village-generator",
+"https://watabou.github.io/cave-generator",
+"https://watabou.github.io/dwellings",
+"https://watabou.github.io/one-page-dungeon",
+"https://www.kassoon.com/",
+"https://www.gozzys.com/",
+"https://davesmapper.com/",
+"http://chaoticshiny.com/gengen.php",
+"https://store.steampowered.com/app/2537290/
+"https://fantasy-calendar.com/",
+"https://www.calculator.net/dice-roller.html",
+"https://rolladie.net/",
+"https://perchance.org/random-tables",
+"https://garbata.itch.io/random-table-generator",
+"https://roll20.net/",
+"https://rolladvantage.com/tokenstamp/",
+"https://rolladvantage.com/diceroller",
+"https://www.heroforge.com/",
+"https://www.worldanvil.com/",
+"https://www.obsidianportal.com/",
+"https://store.steampowered.com/app/629520/Soundpad/",
+"https://www.fakepersongenerator.com/Index/generate",
+"https://thispersondoesnotexist.com/",
+"https://obsidian.md/",
+"https://www.notion.so/?cookie_sync_completed=true",
+"https://zoom.us/pt/signin#/login",
+"https://docs.google.com/document/u/0/?hl=pt-BR",
+"https://web.telegram.org/",
+"https://gurpscharactersheet.com/",
+"https://github.com/wadeguthrie/combat-accountant",
+"https://www.dndbeyond.com/",
+"https://foundryvtt.com/",
+"https://discord.com/",
+"https://kanka.io/",
+"https://www.drawio.com/",
+"https://www.gimp.org/",
+"https://inkscape.org/",
+"https://groovy.bot/",
+"https://www.dwarffortress.net/adventure-mode/",
+"https://www.foundryvtt-hub.com/",
+"https://dungeondraft.net/",
+"https://www.wonderdraft.net/",
+"https://www.notion.com/",
+"https://github.com/lozanoje/Bellows",
+"https://chromewebstore.google.com/detail/beyond-20/
+"https://avrae.io/",
+"https://zim-wiki.org/",
+"https://onenote.cloud.microsoft/pt-br/",
+"https://www.legendkeeper.com/",
+"https://docs.freeplane.org/",
+"https://www.gmaassistant.app/",
+"https://www.tldraw.com/",
+"https://excalidraw.com/",
+"https://app.campaign-logger.com/",
+"https://www.rptools.net/toolbox/token-tool/",
+"https://chronica.ventures/",
+"https://www.dyslexic-charactersheets.com/",
+"https://www.literatureandlatte.com/scrivener/overview",
+"https://www.notebook.ai/",
+"https://app.reroll.co/",
+"https://mynoise.net/",
+"https://www.hexographer.com/free-version/",
+"https://sourceforge.net/projects/scribus/",
+"https://inkarnate.com/",
+"http://fari.app/",
+"https://nimblesheet.ttrpg.tools/",
+"https://www.rolegenerator.com/register",
+"https://brighterworlds.app/",
+"https://rpg-tools.erikh.se/",
+"https://miro.com/",
+"https://xmind.com/",
+"https://roll20.net/",
+"https://d100tables.com/",
+"https://alchemyrpg.com/",
+"https://store.steampowered.com/app/1588530/Dungeon_Alchemist/",
+"https://arminprime.itch.io/hexgen",
+"https://github.com/zfedoran/go-wfc",
+"https://koboldplus.club/",
+"https://www.redblobgames.com/maps/mapgen4/",
+"https://ironarachne.com/",
+"https://eigengrausgenerator.com/",
+"https://sfrpgtools.com/",
+"https://cosmicperiladventure.com/",
+"https://randomcreation.net/generators.html",
+"https://5emagic.shop/",
+"https://www.tooljet.ai/",
+"https://play.talecompanion.com/",
+"https://play.google.com/store/apps/details?id=idispatch.mythic_gme_adventures&hl=pt_BR",
+"https://jasonholtdigital.itch.io/mythic-gme-digital",
+"https://www.forgotten-adventures.net",
+"https://wanderersguide.app/",
+"https://dndai.app/",
+"https://www.beyondtabletop.com/",
+"https://app.demiplane.com/home",
+"https://pathcompanion.com/",
+"https://pathbuilder2e.com/",
+"https://sourceforge.net/projects/yapcg/",
+"https://pcgen.org/",
+"https://tennessine.co.uk/flags/",
+"https://azgaar.github.io/Armoria/",
+"https://nagoshiashumari.github.io/Rpg-Awesome/",
+"https://www.photopea.com/",
+"https://game-icons.net/ ",
+"https://deorum.vercel.app/gallery/39xt89q0bka6gnj/",
+"https://azgaar.github.io/spell-caster",
+"https://dddice.com/room/jH2AFBU",
+"https://anydice.com/",
+"https://tacticaltokens.com/dice-roller/?",srsltid=AfmBOoqRakQ5xLE2Rj0llxFlqYPVs9PQnXKT-FNbYPpUaQd6YSZZFu_v
+"https://arkenforge.com/",
+"https://sectorswithoutnumber.com/",
+"https://www.dungeonfog.com/",
+"https://www.profantasy.com/products/cc3.asp",
+"https://tabletopy.com/",
+"https://hydeillustration.gumroad.com/l/rtlys",
+"https://rolz.org/",
+"https://harpy.gg/en",
+"https://alchemyrpg.com/",
+"https://lets-role.com/",
+"https://www.owlbear.rodeo/",
+"https://www.sendingstone.com/",
+"https://www.playrole.com/",
+"https://www.rptools.net/",
+"https://www.mythictable.com/",
+"https://alkemion.com/",
+"https://hexroll.app/",
+"https://www.nbos.com/products/astrosynthesis",
+"https://www.nbos.com/products/the-keep",
+"https://www.nbos.com/products/skwyre",
+https://store.steampowered.com/app/592260/Dungeon_Painter_Studio/
 ]
