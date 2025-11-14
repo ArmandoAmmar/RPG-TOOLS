@@ -1,13 +1,13 @@
 [
 "https://deepnight.net/tools/rpg-map/",
-"https://dungeonmapdoodler.com/draw/"
+"https://dungeonmapdoodler.com/draw/",
 "https://www.dungeonscrawl.com/",
 "https://npcgeneratorai.com/",
 "https://www.seventhsanctum.com/",
 "https://donjon.bin.sh/",
 "https://azgaar.github.io/Fantasy-Map-Generator/",
 "https://watabou.github.io/perilous-shores/",
-"https://watabou.github.io/city-generator"
+"https://watabou.github.io/city-generator",
 "https://watabou.github.io/village-generator",
 "https://watabou.github.io/cave-generator",
 "https://watabou.github.io/dwellings",
